@@ -22,7 +22,7 @@ Every machine on the internet is a computer. For the sake of clarity, we'll divi
 *What is a SERVER?*
 
 Historically, a "server" was a larger, more powerful computer with more memory, hard drives, and processors. But today, "server" duties may be fulfilled fairly successfully by Nintendo devices as little as a credit card! Nonetheless, in diagrams and on whiteboards, they are typically depicted as massive "tower-style" computers.
-[example of a traditional SERVER](https://images.pexels.com/photos/18471532/pexels-photo-18471532/free-photo-of-a-computer-room-with-a-monitor-and-computer.jpeg?auto=compress&cs=tinysrgb&w=800)
+![example of a traditional SERVER](https://images.pexels.com/photos/18471532/pexels-photo-18471532/free-photo-of-a-computer-room-with-a-monitor-and-computer.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 *Who is a CLIENT?*
 A computer in a client role is responsible for presenting the data provided from the server. Historically, these devices might be more simply equipped (and thus less expensive). Laptops are commonly represented in diagrams or on whiteboards.
