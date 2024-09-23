@@ -113,8 +113,8 @@ input[type="text"] {
 ```
 The `[type="text"]` selector styles all input elements that have `type="text"`, making their background color light blue.
 
-[!note]
-Attribute selectors are like finding toys with specific tags and styling them!
+>[!note]
+>Attribute selectors are like finding toys with specific tags and styling them!
 
 ## Pseudo-selectors
 

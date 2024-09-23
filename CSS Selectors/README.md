@@ -14,8 +14,8 @@ In this lesson, we’ll explore:
 - **Different types** of selectors.
 - How to use them in **CSS code**.
 
-### [!note]
-Selectors are like **pointing** at something you want to decorate on your webpage!
+>[!note]
+>Selectors are like **pointing** at something you want to decorate on your webpage!
 
 ---
 

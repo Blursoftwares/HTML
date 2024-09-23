@@ -27,8 +27,8 @@ For example:
 - HTML says, "Here's a box!"
 - CSS says, "Let's make the box **blue** and give it a **red border**!"
 
-### [!note] 
-**CSS helps us make each part of our webpage look exactly the way we want it!** It’s like choosing a color for each toy or a pattern for your walls.
+>[!note] 
+>**CSS helps us make each part of our webpage look exactly the way we want it!** It’s like choosing a color for each toy or a pattern for your walls.
 
 
 ### HTML and CSS: Two Important Jobs
@@ -39,8 +39,8 @@ HTML helps us decide **what goes where** on a webpage. Think of it like building
 - Does this **menu** go at the top with the other important things?
 - Should this extra note be in its own special section?
 
-### [!note] 
-**HTML is like setting up your toy room!** You're thinking about how everything is organized and what makes sense where.
+> [!note] 
+>**HTML is like setting up your toy room!** You're thinking about how everything is organized and what makes sense where.
 
 ## What is CSS?
 CSS helps us decide **how everything looks**. Imagine you're painting your toy room and choosing where to put decorations. We ask questions like:
@@ -49,8 +49,8 @@ CSS helps us decide **how everything looks**. Imagine you're painting your toy r
 - How **big** should the big title be compared to the smaller ones?
 - Should the **links** change color when you touch them?
 
-### [!hint] 
-**CSS is like decorating your toy room!** You focus on making things look nice and how everything is styled.
+>### [!hint] 
+>**CSS is like decorating your toy room!** You focus on making things look nice and how everything is styled.
 
 ## Declaring Properties and Values
 
@@ -62,8 +62,8 @@ For example:
 - If we want our text to be **blue**, the property is `color` and the value is `blue`.
 - If we want our box to be **big**, the property is `width` and the value might be `200px` (which means 200 pixels wide).
 
-### [!hint] 
-Think of it like telling your toys how they should look! You say, "Make this toy **red** and this toy **tall**."
+> [!tip] 
+>Think of it like telling your toys how they should look! You say, "Make this toy **red** and this toy **tall**."
 
 
 

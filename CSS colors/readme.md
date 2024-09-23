@@ -76,8 +76,8 @@ p.alert {
 }
 ```
 Everything inside the `/*`` */` is a comment. It's meant for other developers to understand the code but doesn't show up on the webpage.
-[!note]
-Use comments to explain your code, especially when it might be unclear for others or for future reference!
+>[!note]
+>Use comments to explain your code, especially when it might be unclear for others or for future reference!
 
 It's game time, check out our [Dinner Table](https://flukeout.github.io/)
 
