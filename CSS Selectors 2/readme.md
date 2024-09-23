@@ -1,5 +1,5 @@
 # Selectors part 2
-*** This is a continuation of the selectors section ***
+***This is a continuation of the selectors section***
 
 ## ID and Class Selectors
 ID selectors pick all components with a specific ID attribute value. In CSS, we express an ID selector by following the element name with a hash symbol and then the ID attribute value we want to match. In this scenario, the browser looks for a p element with the ID "introduction" and applies the CSS to it.
