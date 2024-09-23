@@ -15,8 +15,8 @@ In this part, we will look at:
 - **Styling backgrounds and borders**: We'll decorate the space behind things (the background) and the lines around them (the border).
 - **Debugging CSS**: Sometimes things go wrong, and we’ll learn how to **find and fix mistakes** in our CSS.
 
-### [!note] 
-By the end of this module, you will have a big **toolkit** for making your webpage look super cool!
+>[!note] 
+>By the end of this module, you will have a big **toolkit** for making your webpage look super cool!
 
 ## Why are we learning this?
 
