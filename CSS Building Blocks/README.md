@@ -88,5 +88,5 @@ Debugging is like fixing a broken toy! You figure out what’s wrong, and then m
 You're now ready to take control of how your webpage looks—just like a real decorator!
 
 ## Resources:
-[MDN - CSS Building Blocks](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks)
-[Building blocks tutorial](https://www.youtube.com/watch?v=8uWP-TkWX-A)
+* [MDN - CSS Building Blocks](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks)
+* [Building blocks tutorial](https://www.youtube.com/watch?v=8uWP-TkWX-A)
