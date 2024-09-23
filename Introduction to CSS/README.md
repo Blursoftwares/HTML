@@ -49,7 +49,7 @@ CSS helps us decide **how everything looks**. Imagine you're painting your toy r
 - How **big** should the big title be compared to the smaller ones?
 - Should the **links** change color when you touch them?
 
->### [!hint] 
+> [!tip] 
 >**CSS is like decorating your toy room!** You focus on making things look nice and how everything is styled.
 
 ## Declaring Properties and Values
