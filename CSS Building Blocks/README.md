@@ -1,4 +1,4 @@
-**# CSS Bulding Blocks**
+# CSS Bulding Blocks
 
 ## Objectives
 * Understand what CSS Building blocks are.
