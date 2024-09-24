@@ -57,7 +57,7 @@ the head section we are able to add relevant data about our webpage as a whole.
 
 ## The Body 
 one key HTML elements we use to build webpages is the body element
->![NOTE]
+>[!NOTE]
 >only content inside the opening and closing body tag will be displayed on the screen
 <body>
 what will be displayed on the screen
