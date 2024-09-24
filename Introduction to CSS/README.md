@@ -1,4 +1,4 @@
-**# A Brief Introduction to Cascading Style Sheets**
+# A Brief Introduction to Cascading Style Sheets
 ## Objectives
 * Define a Cascading Style Sheet
 * What is HTML? A quick recap.
@@ -17,7 +17,7 @@ CSS instructions are distinct from HTML elements in terms of appearance and feel
 
 
 
-The [CSS Zen Garden](https://www.csszengarden.com/) is one of the most impressive demonstrations of CSS power. Links to an other site. People use the same HTML page and use CSS to produce quite diverse pages. Take a look at it.
+The [CSS Zen Garden](https://www.csszengarden.com/) is one of the most impressive demonstrations of CSS power. People use the same HTML page and use CSS to produce quite diverse pages. Take a look at it.
 <!-- Open the website above and browse through a couple of designs during the lesson -->
 
 ## How does HTML and CSS work together?
@@ -77,8 +77,8 @@ Now you're ready to start decorating your toy room (webpage) with CSS!
 
 ## Resources
 <!--CSS in 100 seconds is for higher grades-->
-[CSS in 100 seconds](https://www.youtube.com/watch?v=OEV8gMkCHXQ)
-[CSS Zen Garden](https://www.csszengarden.com/)
-[Introduction to CSS- MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
+* [CSS in 100 seconds](https://www.youtube.com/watch?v=OEV8gMkCHXQ)
+* [CSS Zen Garden](https://www.csszengarden.com/)
+* [Introduction to CSS- MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
 
 

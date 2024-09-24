@@ -75,7 +75,7 @@ p.alert {
   color: #ff0000; /* Alert text displays red */
 }
 ```
-Everything inside the `/*`` */` is a comment. It's meant for other developers to understand the code but doesn't show up on the webpage.
+Everything inside the `/* */` is a comment. It's meant for other developers to understand the code but doesn't show up on the webpage.
 >[!note]
 >Use comments to explain your code, especially when it might be unclear for others or for future reference!
 

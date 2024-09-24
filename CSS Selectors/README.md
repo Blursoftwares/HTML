@@ -26,7 +26,7 @@ A **selector** is like telling CSS, "Hey, I want to style this part of my webpag
 Here’s an example:
 
 ```html
-<!-- HTML Code -->
+
 <p>This is a paragraph.</p>
 ```
 ```css
