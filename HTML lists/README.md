@@ -121,7 +121,7 @@ This does not mean that we can't make ordered lists in unordered lists, let us t
   <li>Evening Routine</li>
 </ul>
 ```
-We can make as many list as we need to, just remember to keep things neat and organized! fun right?
+We can make as many lists   as we need to, just remember to keep things neat and organized! fun right?
 Let's try making a list, inside a list, inside a list!
 
 ```html
