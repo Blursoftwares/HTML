@@ -90,7 +90,7 @@ For example;
   color: blue;
 }
 ```
-Explanation: The `.special` selector targets any HTML element with the class `special` and turns it blue.Addtitionally, since it is in 
+Explanation: The `.special` selector targets any HTML element with the class `special` and turns it blue.Additionally, since it is in 
 the `<p>` tag, you can use `p.special`, try it!
 
 ### 3. ID Selector
