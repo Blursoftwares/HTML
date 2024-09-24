@@ -104,7 +104,7 @@ Sometimes, we want a cell to span multiple columns or rows. This is done using t
 ```
 
 ## Conclusion
-* Tables in HTML are created with the <table> tag.
-* Rows are created with <tr>, and columns are created with <td>.
-* Headers (bold labels) use the <th> tag.
-* You can span multiple columns or rows using the colspan and rowspan attributes.
+* Tables in HTML are created with the `<table>` tag.
+* Rows are created with `<tr>`, and columns are created with `<td>`.
+* Headers (bold labels) use the `<th>` tag.
+* You can span multiple columns or rows using the `colspan` and `rowspan` attributes.
