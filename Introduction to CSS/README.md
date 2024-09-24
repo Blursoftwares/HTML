@@ -17,7 +17,7 @@ CSS instructions are distinct from HTML elements in terms of appearance and feel
 
 
 
-The [CSS Zen Garden](https://www.csszengarden.com/) is one of the most impressive demonstrations of CSS power. Links to an other site. People use the same HTML page and use CSS to produce quite diverse pages. Take a look at it.
+The [CSS Zen Garden](https://www.csszengarden.com/) is one of the most impressive demonstrations of CSS power. People use the same HTML page and use CSS to produce quite diverse pages. Take a look at it.
 <!-- Open the website above and browse through a couple of designs during the lesson -->
 
 ## How does HTML and CSS work together?
