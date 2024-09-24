@@ -45,7 +45,7 @@ These files store computer code that only machines can read. They are like secre
 ![needforspeed.exe](https://i.ytimg.com/vi/qp68KxEHjQ8/maxresdefault.jpg)
 
 
->[!Note:]
+>[!Note]
 > You can't read binary files directly, but they help computers do important tasks.
 
 ## What Are File Extensions?
