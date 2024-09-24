@@ -1,12 +1,6 @@
 # CSS Bulding Blocks
 
 ## Objectives
-* Understand what CSS Building blocks are.
-
-# Introduction
-Now that you’ve learned the basics of CSS, like how to **decorate** your webpage, it’s time to explore more fun stuff!
-
-## Objectives
 
 In this part, we will look at:
 - **The cascade and inheritance**: These are like rules to decide which styles win when there are many.
@@ -14,6 +8,11 @@ In this part, we will look at:
 - **Units and sizing**: How big or small do we want things to be? We’ll learn ways to measure, like using pixels or percentages!
 - **Styling backgrounds and borders**: We'll decorate the space behind things (the background) and the lines around them (the border).
 - **Debugging CSS**: Sometimes things go wrong, and we’ll learn how to **find and fix mistakes** in our CSS.
+
+## Introduction
+Now that you’ve learned the basics of CSS, like how to **decorate** your webpage, it’s time to explore more fun stuff!
+
+
 
 >[!note] 
 >By the end of this module, you will have a big **toolkit** for making your webpage look super cool!
