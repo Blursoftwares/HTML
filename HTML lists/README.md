@@ -44,7 +44,7 @@ To create an unordered list, use the `<ul>` tag. Inside the list, use the `<li>`
   <li>Doll</li>
 </ul>
 ```
-> [!IMPORTANT]
+> [!Note]
 > This is an unordered list because the items don’t have numbers, just bullets!
 
 ### Ordered Lists:
@@ -65,7 +65,7 @@ For instance, we can write a routine of what we do once we get home from school:
 </ol>
 ```
 
-> [!Note:]
+> [!Note]
 > This is an ordered list because the items are numbered!
 
 ## Nested lists
