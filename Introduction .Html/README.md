@@ -78,10 +78,11 @@ once your html has body many different things can be included to be displayed th
 ```
 ### The HTML tags
 
->[!IMPORTANT] there is only 6 heading tags ,and the <p> tag is used tag is used to describe  paragraphs
-<h1> to <h6> are used to define html headings
-<h1> defines the most important heading.
-<h6> defines the least important heading.
+> [!IMPORTANT]
+> There is only 6 heading tags ,and the <p> tag is used tag is used to describe  paragraphs
+> <h1> to <h6> are used to define html headings
+> <h1> defines the most important heading.
+> <h6> defines the least important heading.
 
 ```html
 <p>Today it's a sunny day, and you're enjoying a big scoop of your favorite ice cream. It's sweet, and creamy What’s your favorite flavor?</p>
