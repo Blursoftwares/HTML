@@ -62,9 +62,9 @@ Below are a few examples of file extensions, how many do you know?
 > A file extension is a quick and easy way to understand the file's content and purpose without having to open it!
 
 **Examples:**
-`.txt`: this is a **text file** for writing your notes.
-`.mp3`: this is a **mp3 file**, it contains your favorite song in its audio format.
-`.mp4`: this is a **mp4 file**, a video recording of you playing with your pet.
+* `.txt`: this is a **text file** for writing your notes.
+* `.mp3`: this is a **mp3 file**, it contains your favorite song in its audio format.
+* `.mp4`: this is a **mp4 file**, a video recording of you playing with your pet.
 
 > [!IMPORTANT] 
 > Renaming the file extension does not change the file, `birthday.jpg`(your birthday picture) cannot magically change into a video if you change the file extension to `.mp4`.
