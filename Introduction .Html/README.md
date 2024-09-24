@@ -59,9 +59,11 @@ the head section we are able to add relevant data about our webpage as a whole.
 one key HTML elements we use to build webpages is the body element
 >[!NOTE]
 >only content inside the opening and closing body tag will be displayed on the screen
+```HTML
 <body>
 what will be displayed on the screen
 </body>
+```
 
 once your html has body many different things can be included to be displayed things like;
 
@@ -76,7 +78,7 @@ once your html has body many different things can be included to be displayed th
 ```
 ### The HTML tags
 
-![NOTE] there is only 6 heading tags ,and the <p> tag is used tag is used to describe  paragraphs
+>[!IMPORTANT] there is only 6 heading tags ,and the <p> tag is used tag is used to describe  paragraphs
 <h1> to <h6> are used to define html headings
 <h1> defines the most important heading.
 <h6> defines the least important heading.
