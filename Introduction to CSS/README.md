@@ -77,8 +77,8 @@ Now you're ready to start decorating your toy room (webpage) with CSS!
 
 ## Resources
 <!--CSS in 100 seconds is for higher grades-->
-[CSS in 100 seconds](https://www.youtube.com/watch?v=OEV8gMkCHXQ)
-[CSS Zen Garden](https://www.csszengarden.com/)
-[Introduction to CSS- MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
+* [CSS in 100 seconds](https://www.youtube.com/watch?v=OEV8gMkCHXQ)
+* [CSS Zen Garden](https://www.csszengarden.com/)
+* [Introduction to CSS- MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
 
 
