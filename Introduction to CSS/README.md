@@ -1,4 +1,4 @@
-**# A Brief Introduction to Cascading Style Sheets**
+# A Brief Introduction to Cascading Style Sheets
 ## Objectives
 * Define a Cascading Style Sheet
 * What is HTML? A quick recap.
