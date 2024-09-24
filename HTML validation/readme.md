@@ -50,7 +50,7 @@ For this lesson, paste the following code;
 </html>
 ```
 When you paste this HTML code into the W3C Validator, it should return no errors because it follows all the rules of valid HTML.
-Let us use an errored example and wath it hunt for the error. Paste this HTML code to the W3C Validator;
+Let us use an errored example and watch it hunt for the error. Paste this HTML code to the W3C Validator;
 ```html
 <!DOCTYPE html>
 <html lang="en">
